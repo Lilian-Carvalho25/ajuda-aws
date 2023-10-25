@@ -77,6 +77,9 @@ a {
 .cards img {
     margin-bottom: 10px;
 }
+.profile {
+    width: 230px;
+}
 
 .cards p {
     font-size: 1.5rem;
