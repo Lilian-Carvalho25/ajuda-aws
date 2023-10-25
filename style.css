@@ -70,6 +70,7 @@ a {
 
 .cards:hover {
     border: #F28705 solid 1px;
+    box-shadow: 20px solid #F28705;
     transform: scale(1.0);
     transition: 0.5s;
 }
